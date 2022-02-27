@@ -1,4 +1,4 @@
-# ComputerPlayGame的Repo
+# ComputerPlayGame Repo
 Please Check each folder for more details.
 
 # 电脑玩游戏的Repo
